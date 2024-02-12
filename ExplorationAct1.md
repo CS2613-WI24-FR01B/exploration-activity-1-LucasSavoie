@@ -40,5 +40,5 @@ Yes I would.
 I would, but like my example, I would need to pair it with another package, as the other package will bring out the best of openCV.
 
 Here are links to both libraries websites:
-[OpenCV](https://opencv.org/)
+[OpenCV]([https://opencv.org/](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html))
 [mediapipe](https://mediapipe-studio.webapps.google.com/home)
