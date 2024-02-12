@@ -38,3 +38,7 @@ Although it was hard, and at first I did not understand it, the more I understoo
 Yes I would.
 • Would you continue using this package/library? Why or why not?
 I would, but like my example, I would need to pair it with another package, as the other package will bring out the best of openCV.
+
+Here are links to both libraries websites:
+[OpenCV](https://opencv.org/)
+[mediapipe](https://mediapipe-studio.webapps.google.com/home)
