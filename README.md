@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/FJiO-WNb)
 # EA1
-## OpenCV and mediapipe
+## Which package/library does your code demonstrate?
+###### OpenCV and mediapipe
 While the library of choice was openCV, the package is limited to only a few functionalities and is generally considered as slow. However, openCV used with functionalities of mediapipe make for a much more exciting program. OpenCV is a imageprocessing library, capable of identifying objects using machinelearning. However, mediapipe allows for further identifications of said objects, like currency of a coin or type of animal, or in this case, fingers on a hand.
 ## How does someone run your program?
 If openCV and mediapipe are already installed, simply running the code in an IDE like VScode or through the terminal is sufficient.
